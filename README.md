@@ -1,4 +1,4 @@
-# Quiz
+# Quiz-Project
 Welcome to the Java Multithreading Quiz! This README provides an overview of our interactive quiz application that focuses on multithreading concepts in Java. Our quiz is not just about answering questions – it's a dynamic and engaging learning experience.
 
 About the Quiz
